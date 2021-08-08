@@ -1,6 +1,6 @@
 # Valory Go
 
-### Current Release 0.1.0 Developer
+### Current Release 0.1.1 Developer
 
 For developer testing only.
 
@@ -12,18 +12,20 @@ Implemented features in Valory Go:
 * VGS server node
 * VGS AI node for gnugo
 * VGS AI node for leela zero
+* VGS AI node for katago
+* VGS AI node for leela
+* VGS AI node for sai
 * Textbook board presentation
+* VGS rating system
+* Ranking presentation
 
 Changes in this release:
 
-* Vgs (Valory Go Systems) implementation
-* Vgs game format
-* Vgs node protocol version 1
-* Vgs node keepalive
-* Vgs node move synchronization
-* Vgs server node
-* Vgs AI node for gnugo
-* Vgs AI node for leela zero
-* Textbook board presentation
-* Demo of game play user vs ai
-* Demo of game play ai vs ai
+* Vgs node protocol version 2
+* Vgs AI node for katago, leela, sai
+* Valory rating system
+* Gnugo as scorer for other AI
+* About page, discord link and user profile on UI
+* Ranking presentation
+* UI Page sliding
+* UI enhancements
