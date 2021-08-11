@@ -1,6 +1,6 @@
 # Valory Go
 
-### Current Release 0.1.1 Developer
+### Current Release 0.1.3 Developer
 
 For developer testing only.
 
@@ -18,14 +18,9 @@ Implemented features in Valory Go:
 * Textbook board presentation
 * VGS rating system
 * Ranking presentation
+* Experimental auto handicap game
 
-Changes in this release:
+New in this release:
 
-* Vgs node protocol version 2
-* Vgs AI node for katago, leela, sai
-* Valory rating system
-* Gnugo as scorer for other AI
-* About page, discord link and user profile on UI
-* Ranking presentation
-* UI Page sliding
-* UI enhancements
+* Rating level profile with user self-rating
+* Experimental auto handicap based on player ratings
