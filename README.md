@@ -1,6 +1,6 @@
 # Valory Go
 
-### Current Release 0.1.3 Developer
+### Current Release 0.1.4 Developer
 
 For developer testing only.
 
@@ -22,5 +22,4 @@ Implemented features in Valory Go:
 
 New in this release:
 
-* Rating level profile with user self-rating
-* Experimental auto handicap based on player ratings
+* Game review for ended game
