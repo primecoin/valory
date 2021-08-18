@@ -1,6 +1,6 @@
 # Valory Go
 
-### Current Release 0.1.6 Developer
+### Current Release 0.1.7 Developer
 
 For developer testing only.
 
@@ -16,8 +16,8 @@ Implemented features in Valory Go:
 * Ranking presentation
 * Experimental auto handicap game
 * Classical game opening
+* Modern game opening
 
 New in this release:
 
-* Fix an ui issue for app restart
-* Ranking ui improvement
+* Support modern game openings
