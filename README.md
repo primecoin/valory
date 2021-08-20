@@ -1,6 +1,6 @@
 # Valory Go
 
-### Current Release 0.1.7 Developer
+### Current Release: 0.1.8 Developer Release
 
 For developer testing only.
 
@@ -20,4 +20,6 @@ Implemented features in Valory Go:
 
 New in this release:
 
-* Support modern game openings
+* Enforce ko and suicide rules on server side
+* Blinking stone ui effect for pending move
+* Fix an issue for ending game with time violation
