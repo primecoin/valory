@@ -1,6 +1,6 @@
 # Valory Go
 
-### Current Release: 0.1.8 Developer Release
+### Current Release: 0.1.10 Developer Release
 
 For developer testing only.
 
@@ -12,7 +12,7 @@ Implemented features in Valory Go:
 * VGS server node
 * VGS AI nodes
 * Textbook board presentation
-* VGS rating system
+* VGS rating system with handicap support
 * Ranking presentation
 * Experimental auto handicap game
 * Classical game opening
@@ -20,6 +20,5 @@ Implemented features in Valory Go:
 
 New in this release:
 
-* Enforce ko and suicide rules on server side
-* Blinking stone ui effect for pending move
-* Fix an issue for ending game with time violation
+* Display node uptime on ui
+* Improve ranking list and games list presentation
