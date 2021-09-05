@@ -1,6 +1,6 @@
 # Valory Go
 
-Visit [wiki](https://github.com/primecoin/valory/wiki) for FAQ and other player instructions.
+Visit [Valory Wiki](https://github.com/primecoin/valory/wiki) for FAQ and other player instructions.
 
 ### Current Release: 0.1.10 Developer Release
 
