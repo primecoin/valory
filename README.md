@@ -2,7 +2,7 @@
 
 Visit [Valory Wiki](https://github.com/primecoin/valory/wiki) for FAQ and other player instructions.
 
-### Current Release: 0.1.10 Developer Release
+### Current Release: 0.1.12 Developer Release
 
 For developer testing only.
 
@@ -22,5 +22,4 @@ Implemented features in Valory Go:
 
 New in this release:
 
-* Display node uptime on ui
-* Improve ranking list and games list presentation
+* Improve ui responsiveness with embedded wallet
