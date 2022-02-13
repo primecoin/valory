@@ -2,7 +2,7 @@
 
 Visit [Valory Wiki](https://github.com/primecoin/valory/wiki) for FAQ and other player instructions.
 
-### Current Release: 0.1.12 Developer Release
+### Current Release: 0.1.26 Developer Release
 
 For developer testing only.
 
@@ -19,7 +19,5 @@ Implemented features in Valory Go:
 * Experimental auto handicap game
 * Classical game opening
 * Modern game opening
-
-New in this release:
-
-* Improve ui responsiveness with embedded wallet
+* Experimental game persistence via network memory
+* Experimental in-game wallet with gem, gold, and coin currencies
