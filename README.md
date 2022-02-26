@@ -2,7 +2,7 @@
 
 Visit [Valory Wiki](https://github.com/primecoin/valory/wiki) for FAQ and other player instructions.
 
-### Current Release: 0.1.26 Developer Release
+### Current Release: 0.1.27 Developer Release
 
 For developer testing only.
 
